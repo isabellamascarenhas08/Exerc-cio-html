@@ -48,7 +48,12 @@
     <p>Lynn Painter</p>
     <p>Tessa Bailey</p>
     <p>Emily Henry</p>
-    
-    
+    </section>
   </main>
+
+  <footer>
+    <p>Site criado por: Isabella Mascarenhas | Data: 13/08/2025</p>
+  </footer>
+  
 </body>
+</html>
