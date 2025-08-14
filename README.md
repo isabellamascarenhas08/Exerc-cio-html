@@ -9,7 +9,7 @@
 <body>
 
   <header>
-    <img src="imagens/banner.jpg" alt="Capa de Livros de Romance" style="width:100%; height:auto;">
+    <img src="https://github.com/user-attachments/assets/d79ac5be-baea-4011-b8ef-12bf462ca6d3" alt="Capa de Livros de Romance" style="width:100%; height:auto;">
     <h1>Livros de Romance - Os mais famosos!</h1>
   </header>
 
